@@ -1,3 +1,2 @@
 # sql-music-store-analysis
-End-to-end SQL data analysis project focused on business insights using PostgreSQL
-**This project was completed as a self-learning and practice exercise to strengthen SQL-based data analysis skills using a real-world dataset.**
+End-to-end SQL data analysis project using PostgreSQL, completed as a **self-learning** exercise to derive **business insights** from a **real-world dataset**.
