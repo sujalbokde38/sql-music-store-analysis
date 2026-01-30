@@ -90,9 +90,8 @@ A detailed schema diagram (`MusicDatabaseSchema.png`) is included to illustrate 
 
 ## 📁 Database Schema
 
-<p align="center">
-  <a href="database/MusicDatabaseSchema.png">
-    <img src="database/MusicDatabaseSchema.png" alt="Music Store Database Schema" width="700">
-  </a>
-</p>
+### Database Schema
 
+<p align="center">
+  <img src="./schema.png" alt="Music Store Database Schema" width="750">
+</p>
