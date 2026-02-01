@@ -10,7 +10,6 @@ The project emphasizes:
 - Schema understanding  
 - Analytical reasoning  
 
-This makes it well-suited for **Data Analyst / Business Analyst fresher roles**.
 
 ---
 
